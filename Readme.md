@@ -38,38 +38,56 @@ Este repositório tem como objetivo documentar todos os projetos de API que fora
         <td align="center">Avançado</td>
      </tr>
      <tr>
-        <td align="center">HTML</td>
-        <td align="center"></td>
+        <td align="center">Java</td>
+        <td align="center">X</td>
         <td align="center"></td>
         <td align="center"></td>
      </tr>
+     <tr>
+        <td align="center">Python</td>
+        <td align="center">X</td>
+        <td align="center"></td>
+        <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">HTML</td>
+        <td align="center"></td>
+        <td align="center">X</td>
+        <td align="center"></td>
+     </tr>
       <tr>
-        <td align="center">CSS</td>
+        <td align="center">CSS / SCSS</td>
         <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
      <tr>
         <td align="center">JavaScript</td>
         <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
       <tr>
         <td align="center">TypeScript</td>
         <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
         <tr>
-        <td align="center">React</td>
+        <td align="center">React / React Native</td>
         <td align="center"></td>
+        <td align="center">X</td>
+        <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">PostgreSQL</td>
+        <td align="center">X</td>
         <td align="center"></td>
         <td align="center"></td>
      </tr>
      <tr>
-        <td align="center">React Native</td>
-        <td align="center"></td>
+        <td align="center">MongoDB</td>
+        <td align="center">X</td>
         <td align="center"></td>
         <td align="center"></td>
      </tr>
