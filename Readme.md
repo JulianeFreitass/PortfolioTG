@@ -17,11 +17,11 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/70216694?v=4"  width="200"/>
 
-Sou estudante do curso de Analise e Desenvolviento de Sistemas na Faculdade de Tecnologia  de São José dos Campos - Prof.Jessen Vidal, e atualmente estou cursando o 5º semestre.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia  de São José dos Campos - Prof.Jessen Vidal, e atualmente estou cursando o 5º semestre.
 
-Tive meu primeiro contato com a área de programação quando cursei o curso Técnico em Informática na ETEC, lá pude aprender mais sobre programação e ver que realmente era nisso que eu gostaria de me apronfundar.
+Tive meu primeiro contato com a área de programação quando cursei o Técnico em Informática na ETEC, lá pude aprender mais sobre programação e ver que realmente era nisso que eu gostaria de me apronfundar.
 
-Atualmente sou estágiaria na área de desenvolvimento de uma empresa do Parque Tecnologico, onde atuo mais no desenvolvimento do Front-End.
+Atualmente sou estágiaria na área de desenvolvimento de uma empresa do Parque Tecnológico, onde atuo mais no desenvolvimento do Front-End.
 
 Este repositório tem como objetivo documentar todos os projetos de API que foram realizados durante os semestres, totalizando 6 projetos.
 
