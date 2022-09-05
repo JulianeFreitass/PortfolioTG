@@ -1,4 +1,4 @@
-<h1>Mr. Academy</h1>
+<h1>Mr. Academy <img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/logotipo_marca/coruja.jpg" width="48"></h1>
 
 # Parceiro acadêmico
 No primeiro semestre não houve uma empresa parceira externa para prover um problema a ser solucionado, por isso A FATEC se disponibilizou como empresa parceira. O projeto proposto foi um website para vendas e posteriormente disponibilização de materiais didáticos para curso de Ensino Superior de Análise de Sistemas, atuando enquanto uma plataforma e-commerce. 
@@ -15,10 +15,12 @@ Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 Frontend: HTML5, CSS3, JavaScript e Bootstrap;
 
 Backend: PHP.
-  
+
+Persistência de dados: MySQL
+ 
   # Contribuições pessoais
   
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do website Mr.Academy, design dos icones, layout, imagens e desenvolvimento do código em HTML, CSS e JavaScript.
+Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do website Mr.Academy, design dos icones, layout, imagens e desenvolvimento do código em HTML, CSS, JavaScript E PHP.
 
   
 # Hard Skills
