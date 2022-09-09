@@ -12,11 +12,19 @@ O objetivo geral deste projeto é a criação de uma plataforma de estudos, onde
 
 Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 
-Frontend: HTML5, CSS3, JavaScript e Bootstrap;
+- Frontend:
 
-Backend: PHP.
+<p>HTML: Organização e estruturação de páginas web.</p>
+<p>CSS: Estilização dos componentes HTML por meio de regras CSS.</p>
+<p>JavaScript: Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript.</p>
 
-Persistência de dados: MySQL
+- Backend: 
+
+PHP: Linguagem utilizada para ser o servidor (back-end) da aplicação.
+
+- Banco de dados: 
+
+MySQL: Banco de dados relacional para a persistência de dados
  
   # Contribuições pessoais
   
