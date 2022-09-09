@@ -12,19 +12,12 @@ O objetivo geral deste projeto é a criação de uma plataforma de estudos, onde
 
 Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 
-- Frontend:
 
 <p>HTML: Organização e estruturação de páginas web.</p>
 <p>CSS: Estilização dos componentes HTML por meio de regras CSS.</p>
 <p>JavaScript: Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript.</p>
-
-- Backend: 
-
-PHP: Linguagem utilizada para ser o servidor (back-end) da aplicação.
-
-- Banco de dados: 
-
-MySQL: Banco de dados relacional para a persistência de dados
+<p>PHP: Linguagem utilizada para ser o servidor (back-end) da aplicação.</p>
+<p>MySQL: Banco de dados relacional para a persistência de dados.</p>
  
   # Contribuições pessoais
   
@@ -37,10 +30,11 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 - CSS: Sei fazer com autonomia.
 - JavaScript: Sei fazer com autonomia.
 - PHP: Sei fazer com auxilio de consultas.
+- MySQL: Sei fazer com auxilio de consultas.
 
 
 # Soft Skills
  
-- Trabalho em equipe
-- Gestão de tempo 
-- Autodidata 
+- Trabalho em equipe: para divisão de tarefas.  
+- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
+- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
