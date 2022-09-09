@@ -5,10 +5,10 @@
 - [Introdução](#introdução)
 - [Principais conhecimentos](#principais-conhecimentos)
 - [Links para contato](#contato)
-- [Mr.Academy - 1º Semestre](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%201)
-- [Pantion - 2º Semestre](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%202)
-- [ION-X - 3º Semestre](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%203)
-- [TecSoja - 4º Semestre](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204)
+- [Mr.Academy - 1º Semestre (2020-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%201)
+- [Pantion - 2º Semestre (2021-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%202)
+- [ION-X - 3º Semestre (2021-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%203)
+- [TecSoja - 4º Semestre (2022-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204)
 
 
 <h2>Introdução</h2>
@@ -24,6 +24,14 @@ Tive meu primeiro contato com a área de programação quando cursei o Técnico 
 Atualmente sou estágiaria na área de desenvolvimento de uma empresa do Parque Tecnológico, onde atuo mais no desenvolvimento do Front-End.
 
 Este repositório tem como objetivo documentar todos os projetos de API que foram realizados durante os semestres, totalizando 6 projetos.
+
+**Carreira acadêmica:**
+
+- Durante o ensino médio cursei o técnico em logística, fiquei apenas um semestre e pude ver que não era aquilo que gostaria de seguir, foi quando que após o término do ensino médio pude começar o técnico em informática na ETEC Machado de Assis, lá tive meu primeiro contato com a área de programção onde pude ver que era realmente nisso que gostaria de me profissionalizar e após o técnico fui para a Fatec.
+
+**Carreira profissional:**
+
+- Durante os primeiros semestres da Fatec eu estava trabalhando na área de atendimento ao cliente, completamente diferente da área do curso, foi quando no ***4º semestre*** recebi uma indicação para estagiar numa empresa do parque técnologico, lá pude aprender como realmente funciona a área de desenvolvimento e em como colocar meus conhecimentos em prática. 
 
 
 <h2>Principais Conhecimentos</h2>
