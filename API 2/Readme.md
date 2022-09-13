@@ -13,15 +13,23 @@ Desenvolver para o nosso cliente, um painel de visualização, onde ele consegui
 
 Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 
-Frontend: HTML5, CSS3, JavaScript e Bootstrap;
+HTML: Organização e estruturação de páginas web.
 
-Backend: NodeJs, ExpressJs.
+CSS: Estilização dos componentes HTML por meio de regras CSS.
 
-Persistência de dados: PostreSQL
+Bootstrap: Framework para estilização dos componentes.
+
+JavaScript: Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript.
+
+NodeJs: Utilizado para ser o servidor (back-end) da aplicação.
+
+ExpressJs: Framework utilizado junto com o Nodejs.
+
+PostreSQL: Banco de dados relacional para a persistência de dados.
   
 # Contribuições pessoais
   
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do dashboard, layout e o desenvolvimento do código em HTML, CSS e JavaScript.
+Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do dashboard, layout e o desenvolvimento do código em HTML, CSS, Bootstrap e JavaScript.
 
   
 # Hard Skills
@@ -29,10 +37,12 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 - HTML: Sei fazer com autonomia.
 - CSS: Sei fazer com autonomia.
 - JavaScript: Sei fazer com autonomia.
+- NodeJs: Sei fazer com auxilio de consultas.
+- PostreSQL: Sei fazer com auxilio de consultas.
 
 
 # Soft Skills
  
-- Trabalho em equipe
-- Gestão de tempo 
-- Autodidata 
+Trabalho em equipe: para divisão de tarefas.
+Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
+Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
