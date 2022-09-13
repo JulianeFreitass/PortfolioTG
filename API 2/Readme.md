@@ -43,6 +43,6 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 # Soft Skills
  
-Trabalho em equipe: para divisão de tarefas.
-Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
-Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
+- Trabalho em equipe: para divisão de tarefas
+- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo
+- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma
