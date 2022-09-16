@@ -15,13 +15,28 @@ Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 
 <p>HTML: Organização e estruturação de páginas web.</p>
 <p>CSS: Estilização dos componentes HTML por meio de regras CSS.</p>
-<p>JavaScript: Manipulação de eventos, requisições ao servidor e de componentes HTML através de JavaScript.</p>
+<p>JavaScript: Manipulação de eventos e criação de funções</p>
 <p>PHP: Linguagem utilizada para ser o servidor (back-end) da aplicação.</p>
 <p>MySQL: Banco de dados relacional para a persistência de dados.</p>
  
   # Contribuições pessoais
   
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do website Mr.Academy, design dos icones, layout, imagens e desenvolvimento do código em HTML, CSS, JavaScript E PHP.
+Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento das interfaces do website Mr.Academy e tambem auxiliei em alguns processos do backend como no processo de compra até seu pagamento.
+
+***Segue abaixo algumas das telas de navegação que foram criadas por mim:***
+
+<table>
+  <tr>
+    <td>Detalhes</td>
+     <td>Demonstração</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi01.gif" width=460 height=280></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi03a.gif" width=460 height=280></td>
+  </tr>
+ </table>
+ 
+ <p>para mais detalhes, veja o video de entrega do projeto no: <a href="https://youtu.be/3kgJ9zw80Ps">YouTube</a></p>
 
   
 # Hard Skills
@@ -34,7 +49,8 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 
 # Soft Skills
- 
-- Trabalho em equipe: para divisão de tarefas.  
+
+- Gestão de equipes: aprendizado da metodologia SCRUM com o intuito do rápido desenvolvimento;
+- Trabalho em equipe: para melhor divisão de tarefas e apoio um dos outros para o desenvolvimento das atividades.  
 - Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
 - Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
