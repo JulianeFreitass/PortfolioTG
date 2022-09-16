@@ -29,8 +29,31 @@ PostreSQL: Banco de dados relacional para a persistência de dados.
   
 # Contribuições pessoais
   
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram o desenvolvimento da interface do dashboard, layout e o desenvolvimento do código em HTML, CSS, Bootstrap e JavaScript.
+Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram no frontend no desenvolvimento das interfaces do website Pation. Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML, CSS, Bootstrap e JavaScript.
 
+**Segue abaixo algumas das telas de navegação que foram desenvolvidas por mim:***
+
+<div align="center">
+<p float="left">
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Login.png" width="400" />
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Cadastro.png" width="400" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Inicial.png" width="400" />
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Painel.png" width="400" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Usuários.png" width="400" />
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Gráficos.png" width="400" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Informações%20complementares.png" width="400" />
+  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Comentários.png" width="400" />
+</p>
+</div>
   
 # Hard Skills
   
@@ -43,6 +66,6 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 # Soft Skills
  
-- Trabalho em equipe: para divisão de tarefas
-- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo
-- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma
+- Trabalho em equipe: para melhor divisão de tarefas e apoio um dos outros para o desenvolvimento das atividades.
+- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
+- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
