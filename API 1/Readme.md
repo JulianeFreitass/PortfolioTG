@@ -27,10 +27,6 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 <table>
   <tr>
-    <td>Detalhes</td>
-     <td>Demonstração</td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi01.gif" width=460 height=280></td>
     <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi03a.gif" width=460 height=280></td>
   </tr>
