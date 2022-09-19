@@ -26,9 +26,14 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 ***Segue abaixo algumas das telas de navegação que foram criadas por mim:***
 
 <table>
+
   <tr>
     <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi01.gif" width=460 height=280></td>
     <td><img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/pi03a.gif" width=460 height=280></td>
+  </tr>
+    <tr>
+    <td>figura 1: demonstra a tela de login como administrador e o processo de cadastro de produtos.</td>
+    <td>figura 2: demonstra a tela de visualização do produto, download do material, avaliação do conteudo e o processo de compra.</td>
   </tr>
  </table>
  
