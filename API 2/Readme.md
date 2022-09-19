@@ -31,37 +31,53 @@ PostreSQL: Banco de dados relacional para a persistência de dados.
   
 Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram no frontend no desenvolvimento das interfaces do website Pation. Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML, CSS, Bootstrap e JavaScript.
 
-**Segue abaixo algumas das telas de navegação que foram desenvolvidas por mim:***
+***Segue abaixo algumas das telas de navegação que foram desenvolvidas por mim:***
 
 <div align="center">
-<p float="left">
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Login.png" width="400" />
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Cadastro.png" width="400" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Login.png" width="400" /></td>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Cadastro.png" width="400" /></td>      
+  </tr>
+    <tr>
+    <td>figura 1: demonstra tela de login</td>
+     <td>figura 2: demonstra a tela de cadastro do usuario</td>
+  </tr>
+</table>
 
-<p float="left">
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Inicial.png" width="400" />
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Painel.png" width="400" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Inicial.png" width="400"/></td>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Painel.png" width="400" /></td>      
+  </tr>
+   <tr>
+     <td>figura 3: demonstra a tela incial com todos os projetos em<br>abertos listados</td>
+     <td><p>figura 4: demonstra o painel de um projeto com as
+     <p>atividades em aberto e seus status, os status são definidos</p> 
+     <p>por cores para facilitar sua visualização.<p></td>
+  </tr>
+</table>
 
-<p float="left">
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Usuários.png" width="400" />
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Gráficos.png" width="400" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Informações%20complementares.png" width="400" />
-  <img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Comentários.png" width="400" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Usuários.png" width="400" /></td>
+    <td><img src="https://github.com/roogercamargo/FatecAPI-02/blob/entrega-04/doc/Wireframes/Final%20Gráficos.png" width="400" /></td>      
+  </tr>
+   <tr>
+     <td>figura 5: demonstra a tela do projeto na aba usuários,<p>com todos os colaboradores atribuidos a ele.</p></td>
+     <td>figura 6: demonstra a tela do projeto na aba gráficos,<p> com a demonstração das estatisticas gerais do projeto.</td>
+  </tr>
+</table>
 </div>
-  
+ 
+
 # Hard Skills
   
 - HTML: Sei fazer com autonomia.
 - CSS: Sei fazer com autonomia.
 - JavaScript: Sei fazer com autonomia.
-- NodeJs: Sei fazer com auxilio de consultas.
-- PostreSQL: Sei fazer com auxilio de consultas.
+- NodeJs: Sei fazer com auxilio.
+- PostreSQL: Sei fazer com auxilio.
 
 
 # Soft Skills
