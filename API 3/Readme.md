@@ -23,13 +23,14 @@ JavaScript: Manipulação de eventos, requisições ao servidor e de componentes
 
 Java: Utilizado para ser o servidor (back-end) da aplicação.
 
-Spring:
+Spring: Framework Java utilizado para desenvolver uma REST API responsável por possibilitar a troca de dados entre o cliente e o servidor.
 
 PostreSQL: Banco de dados relacional para a persistência de dados.
   
 # Contribuições pessoais
-  
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram no frontend no desenvolvimento das interfaces do website Pation. Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML, CSS, Bootstrap e JavaScript.
+
+Neste projeto, tive grande participação no desenvolvimento da parte web da aplicação, criando as páginas, estilos e funcionalidades a serem utilizadas pelos usuários.
+Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML para a estruturação da pagina web, CSS para a criação de estilos, Bootstrap para auxiliar na estilização da pagina e JavaScript para manipulação de eventos e requisições.
 
 ***Segue abaixo algumas das telas de navegação que foram desenvolvidas por mim:***
 
@@ -40,7 +41,7 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
     <td><img src="https://raw.githubusercontent.com/ThomasPalma1/FatecAPI-03/main/docs/wireframes/ion-x/Clientes.png" width="400" /></td>      
   </tr>
     <tr>
-    <td>figura 1: demonstra tela de login</td>
+    <td>figura 1: demonstra tela de inicial onde o usuario pode optar por fazer login ou criar uma conta</td>
      <td>figura 2: demonstra a tela contendo um kanban para o <p>acompanhamento dos status de vendas de cada cliente</p></td>
   </tr>
 </table>
@@ -51,8 +52,8 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
     <td><img src="https://raw.githubusercontent.com/ThomasPalma1/FatecAPI-03/main/docs/wireframes/ion-x/Produtos.png" width="400" /></td>      
   </tr>
    <tr>
-     <td>figura 3: </td>
-     <td>figura 4:</td>
+     <td>figura 3: tela de detalhes de uma prospect</td>
+     <td>figura 4: tela com os produtos disponiveis e suas descrições</td>
   </tr>
 </table>
 
@@ -62,8 +63,8 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
     <td><img src="https://raw.githubusercontent.com/ThomasPalma1/FatecAPI-03/main/docs/wireframes/ion-x/Cadastro%20Prospect(2).png" width="400" /></td>      
   </tr>
    <tr>
-     <td>figura 5: </p></td>
-     <td>figura 6: </td>
+     <td>figura 5: listagem de prospects e seus sattus de andamento</p></td>
+     <td>figura 6: tela de cadastro de novas prospects</td>
   </tr>
 </table>
 </div>
@@ -79,7 +80,5 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 
 # Soft Skills
- 
-- Trabalho em equipe: para melhor divisão de tarefas e apoio um dos outros para o desenvolvimento das atividades.
-- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
-- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
+
+Como parte da equipe de desenvolvimento pude exercer meu trabalho em equipe ajudando os outros integrantes do time nas suas atividades, tambem tive que execer meu foco e gestão de tempo por causa dos conflitos do meu trabalho com os prazos da faculdade. 
