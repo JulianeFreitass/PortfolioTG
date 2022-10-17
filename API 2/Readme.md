@@ -29,7 +29,7 @@ PostreSQL: Banco de dados relacional para a persistência de dados.
   
 # Contribuições pessoais
   
-Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram no frontend no desenvolvimento das interfaces do website Pation. Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML, CSS, Bootstrap e JavaScript.
+Nesse projeto fiz parte do Development Team. Minhas contribuições neste projeto foram no frontend no desenvolvimento das interfaces do website Pation. Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML para a estruturação da pagina web, CSS para a criação de estilos, Bootstrap para auxiliar na estilização da pagina e JavaScript para manipulação de eventos.
 
 **Segue abaixo algumas das telas de navegação que foram desenvolvidas por mim:***
 
@@ -66,6 +66,5 @@ Nesse projeto fiz parte do Development Team. Minhas contribuições neste projet
 
 # Soft Skills
  
-- Trabalho em equipe: para melhor divisão de tarefas e apoio um dos outros para o desenvolvimento das atividades.
-- Gestão de tempo: gerenciar melhor o tempo para conseguir realizar as entregas no prazo.
-- Autodidata: para aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
+
+Como parte da equipe de desenvolvimento tive que ter foco e autodisciplina para entregar minhas atividas no prazo correto e tambem autodidatismo para aprender novas ferramentas que não tinha trabalhado anteriormente. 
