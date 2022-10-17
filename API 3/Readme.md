@@ -41,7 +41,7 @@ Para o desenvolvimento dessas telas utilizei as seguintes ferramentas: HTML para
     <td><img src="https://raw.githubusercontent.com/ThomasPalma1/FatecAPI-03/main/docs/wireframes/ion-x/Clientes.png" width="400" /></td>      
   </tr>
     <tr>
-    <td>figura 1: demonstra tela de inicial onde o usuario pode optar por fazer login ou criar uma conta</td>
+    <td>figura 1: demonstra tela de inicial onde o usuario pode<p> optar por fazer login ou criar uma conta</p></td>
      <td>figura 2: demonstra a tela contendo um kanban para o <p>acompanhamento dos status de vendas de cada cliente</p></td>
   </tr>
 </table>
