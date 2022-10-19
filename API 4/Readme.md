@@ -43,8 +43,8 @@ Neste projeto participei no desenvolvimento do frontend da aplicação, criando 
 
 <table>
   <tr>
-    <td width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/6.jpeg" height=500 width=250/></td>
-    <td width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/4.jpeg" height=500 width=250/></td>      
+    <td  align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/6.jpeg" height=500 width=250/></td>
+    <td   align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/4.jpeg" height=500 width=250/></td>      
   </tr>
    <tr>
      <td>figura 3: Tela de menu onde o usuario pode navegar pelas funcionalidades disponiveis</td>
@@ -54,8 +54,8 @@ Neste projeto participei no desenvolvimento do frontend da aplicação, criando 
 
 <table>
   <tr>
-    <td width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/5.jpeg" height=500 width=250/></td>
-    <td width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/1.jpg" height=500 width=250/></td>      
+    <td  align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/5.jpeg" height=500 width=250/></td>
+    <td  align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/1.jpg" height=500 width=250/></td>      
   </tr>
    <tr>
      <td>figura 5: Tela de cadastro de talhões onde pode ser atribuido a uma propriedade</p></td>
