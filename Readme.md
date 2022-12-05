@@ -9,11 +9,11 @@
 - [Pantion - 2º Semestre (2021-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%202)
 - [ION-X - 3º Semestre (2021-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%203)
 - [TecSoja - 4º Semestre (2022-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204)
+- [Alô Cidadão - 5º Semestre (2022-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%205)
 
 
 <h2>Introdução</h2>
 
-[<img src="https://svgshare.com/i/WF7.svg" width = "300em" height="25em">](#menu-de-navegação)
 
 <img align="right" src="https://avatars.githubusercontent.com/u/70216694?v=4"  width="200"/>
 
@@ -34,9 +34,23 @@ Este repositório tem como objetivo documentar todos os projetos de API que fora
 - Durante os primeiros semestres da Fatec eu estava trabalhando na área de atendimento ao cliente, completamente diferente da área do curso, foi quando no ***4º semestre*** recebi uma indicação para estagiar numa empresa do parque técnologico, lá pude aprender como realmente funciona a área de desenvolvimento e em como colocar meus conhecimentos em prática. 
 
 
+<h2>Aprendizagem por Projeto Integrador</h2>
+
+Foram desenvolvidos os seguintes projetos:
+
+- [Mr.Academy](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%201): E-commerce criado com ênfase em vendas de materiais didáticos para estudantes do Ensino Superior de Análise de Sistemas.
+
+- [Pantion](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%202): Website com foco em dashboards para gestão de projetos e acompanhamento de performance dos desenvolvedores responsáveis.
+
+- [ION-X](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%203): Aplicação Web desenvolvida com o objetivo de realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.
+
+- [TecSoja](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204): Aplicação mobile para efetuar a consolidação de dados e informações sobre o cultivo da soja, viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios.
+
+- [Alô Cidadão](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%205): Aplicação mobile criada utilizando dados públicos, com o propósito de auxiliar a secretaria de obras e serviços públicos.
+
+
 <h2>Principais Conhecimentos</h2>
 
-[<img src="https://svgshare.com/i/WF7.svg" width = "300em" height="25em">](#menu-de-navegação)
 
 <table border="1">
     <tr>
