@@ -1,4 +1,4 @@
-<h1>Alô Cidadão <img src="https://github.com/ThomasPalma1/FatecPI-01/blob/master/docs/logotipo_marca/coruja.jpg" width="48"></h1>
+<h1>Alô Cidadão <img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/Splash.png" width="48"></h1>
 
 # Parceiro acadêmico
 No quinto semestre não houve uma empresa parceira externa para prover um problema a ser solucionado, por isso A FATEC se disponibilizou como empresa parceira. O projeto proposto foi desenvolver um aplicativo mobile que permite o que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização, além da descrição do problema
