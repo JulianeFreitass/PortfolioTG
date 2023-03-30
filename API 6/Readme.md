@@ -6,6 +6,14 @@ O J.P. Morgan é líder global em serviços financeiros, oferecendo soluções �
 # Sobre o projeto
 O projeto proposto foi desenvolver uma ferramenta de comparação de preços que utilize os dados fornecidos via Open Finance, e que esses dados sejam apresentados de forma intuitiva e fluida para o usuário.
 
+As principais características do projeto são as seguintes:
+
+- Painel para consulta de taxas de produtos/serviços nas seguintes categorias: Bancos, produtos/serviços, moedas, taxas.
+
+- Dashboard que contém as seguintes categorias: banco com taxas mais baixas e mais altas; cronograma da média de uma tarifa com tendência; cinco principais bancos com taxas mais baixas em um período.
+
+- Ferramenta de comparação de preços tarifários onde o usuário pode comparar os preços de: produtos/serviços, bancos, moedas.
+
 ***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/FatecAPI-06)***
 
 # Tecnologias utilizadas

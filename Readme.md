@@ -10,6 +10,7 @@
 - [ION-X - 3º Semestre (2021-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%203)
 - [TecSoja - 4º Semestre (2022-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204)
 - [Alô Cidadão - 5º Semestre (2022-2)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%205)
+- [Money Mind - 6º Semestre (2023-1)](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%206)
 
 
 <h2>Introdução</h2>
@@ -47,6 +48,8 @@ Foram desenvolvidos os seguintes projetos:
 - [TecSoja](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%204): Aplicação mobile para efetuar a consolidação de dados e informações sobre o cultivo da soja, viabilizando ao agricultor uma percepção absoluta da produtividade a cada cultivo e produtividade total, além de possibilitar a comparação da produtividade e áreas plantadas nos municípios.
 
 - [Alô Cidadão](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%205): Aplicação mobile criada utilizando dados públicos, com o propósito de auxiliar a secretaria de obras e serviços públicos.
+
+- [Money Mind](https://github.com/JulianeFreitass/PortfolioTG/tree/main/API%206): Aplicação Web desenvolvida utilizando os dados fornecidos via Open Finance, com o proposito de que esses dados sejam apresentados de forma intuitiva e fluida para o usuário.
 
 
 <h2>Principais Conhecimentos</h2>
@@ -101,6 +104,12 @@ Foram desenvolvidos os seguintes projetos:
         <td align="center">X</td>
         <td align="center"></td>
      </tr>
+      <tr>
+        <td align="center">VueJs</td>
+        <td align="center">X</td>
+        <td align="center"></td>
+        <td align="center"></td>
+     </tr>
      <tr>
         <td align="center">PostgreSQL</td>
         <td align="center">X</td>
@@ -116,7 +125,7 @@ Foram desenvolvidos os seguintes projetos:
   </table>
        
 
-<h2>Contato</h2>
+<h2>Conecte-se comigo</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-freitas-9b6287163/)](https://www.linkedin.com/in/juliane-freitas-9b6287163/) <a href="mailto:<juliane.freitas55@gmail.com>" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:juliane.freitas55@gmail.com" />
