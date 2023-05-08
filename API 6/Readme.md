@@ -39,30 +39,29 @@ Neste projeto participei no desenvolvimento do frontend da aplicação, criando 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/Dashboard.jpg"  width=300/></td>
-    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/MaioresTarifas.jpg"  width=300/></td>      
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/Dashboard.jpg"  width=500/></td>
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/MaioresTarifas.png"  width=500/></td>      
   </tr>
    <tr>
-     <td>figura 3: </td>
-     <td></td>
+     <td width=600>Figura 1: Dashboard gerado para menores tarifas filtrado por tipo de gráfico, serviço e grupo</td>
+     <td width=600>Figura 2: Dashboard gerado para maiores tarifas filtrado por tipo de gráfico, serviço e grupo</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td  align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifas.jpg" width=250/></td>
-    <td   align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifasDados.jpg" width=250/></td>      
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifas.jpg" width=500/></td>
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifasDados.jpg" width=500/></td>      
   </tr>
    <tr>
-     <td>figura 3: </td>
-     <td></td>
+     <td width=600>Figura 3: Painel de tarifas gerado a partir da instituição e tipo de pessoa, 
+      preenchendo na tabela o resultado dos dados especificados no filtro</td>
+     <td width=600>Figura 4: Painel de tarifas sem o retorno de dados e com feedback pro usuário</td>
   </tr>
 </table>
 
 </div>
 
-
-  
 # Hard Skills
   
 - Java: Sei fazer com autonomia.
@@ -80,7 +79,7 @@ Como parte da equipe de desenvolvimento pude aprimorar as seguintes soft skills:
 
 - Autonomia
   
-  Como o Vue era uma tecnologia nova para mim tive que ter autonomia de pesquisar mais sobre o framework e aprender mais sobre a ferramente antes de implementala no projeto, aprimorando assim meu conhecimento e desenvolvimento.
+  Como o Vue era uma tecnologia nova para mim tive que ter autonomia de pesquisar mais sobre o framework e aprender mais sobre a ferramente antes de implementá-la no projeto, aprimorando assim meu conhecimento e desenvolvimento.
 
 
 - Trabalho em equipe
