@@ -105,21 +105,33 @@ Foram desenvolvidos os seguintes projetos:
         <td align="center"></td>
      </tr>
       <tr>
-        <td align="center">VueJs</td>
-        <td align="center">X</td>
+        <td align="center">Vue</td>
         <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
      <tr>
         <td align="center">PostgreSQL</td>
+        <td align="center"></td>
         <td align="center">X</td>
         <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">MySQL</td>
+        <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
      <tr>
         <td align="center">MongoDB</td>
         <td align="center">X</td>
         <td align="center"></td>
+        <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">Git</td>
+        <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
   </table>
