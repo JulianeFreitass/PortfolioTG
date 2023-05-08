@@ -39,36 +39,26 @@ Neste projeto participei no desenvolvimento do frontend da aplicação, criando 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="" height=500 width=250/></td>
-    <td align="center"><img src="" height=500 width=250/></td>      
-  </tr>
-    <tr>
-    <td width=300></td>
-     <td width=300></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td  align="center" width=300><img src="" height=500 width=250/></td>
-    <td   align="center" width=300><img src="" height=500 width=250/></td>      
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/Dashboard.jpg"  width=300/></td>
+    <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/MaioresTarifas.jpg"  width=300/></td>      
   </tr>
    <tr>
      <td>figura 3: </td>
-     <td><p></td>
+     <td></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td  align="center" width=300><img src="" height=500 width=250/></td>
-    <td  align="center" width=300><img src="" height=500 width=250/></td>      
+    <td  align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifas.jpg" width=250/></td>
+    <td   align="center" width=300><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifasDados.jpg" width=250/></td>      
   </tr>
    <tr>
-     <td></td>
+     <td>figura 3: </td>
      <td></td>
   </tr>
 </table>
+
 </div>
 
 
