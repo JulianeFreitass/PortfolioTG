@@ -21,14 +21,14 @@ As principais características do projeto são as seguintes:
 Para o desenvolvimento do projeto, as seguintes tecnologias foram utilizadas:
 
 
-<p>Java:</p>
-<p>Python: </p>
-<p>TypeScript: </p>
-<p>VueJs:  </p>
-<p>Spring: </p>
-<p>Scikit-learn: </p>
-<p>TensorFlow: </p>
-<p>PostgreSQL: </p>
+<p>TypeScript: Utilizado para tipagem e criação de interfaces</p>
+<p>VueJs: Utilizado para a criação da SPA, componentes e manipulação de eventos</p>
+<p>Java: Usado para o desenvolvimento back-end da aplicação.</p>
+<p>Spring: Utilizado para possibilitar a troca de dados entre o cliente e o servidor.</p>
+<p>Python: Usado para raspagem de dados e implementação da IA</p>
+<p>MySQL: Banco de dados relacional para a persistência e manipulação de dados.</p>
+<p>Scikit-learn: Utilizado para o aprendizado da IA</p>
+<p>TensorFlow: Utilizada na IA para aprendizado de máquina.</p>
  
   # Contribuições pessoais
   
@@ -75,20 +75,22 @@ Neste projeto participei no desenvolvimento do frontend da aplicação, criando 
   
 # Hard Skills
   
-- Java: Sei fazer com auxilio.
-- Python: Sei fazer com auxilio.
+- Java: Sei fazer com autonomia.
+- Spring Boot: Sei fazer com autonomia.
+- Python: Sei fazer com autonomia.
 - TypeScript: Sei fazer com autonomia.
-- VueJs: Sei fazer com autonomia.
-- PostgreSQL: Sei fazer com auxilio.
+- Vue: Sei fazer com autonomia.
+- MySQL: Sei fazer com autonomia.
 - Scikit-Learn: Sei fazer com auxilio.
+- TensorFlow: Sei fazer com auxilio.
 
 
 # Soft Skills
 Como parte da equipe de desenvolvimento pude aprimorar as seguintes soft skills: 
 
-- Estudioso
+- Autonomia
   
-  Como VueJs ainda era uma tecnologia nova para mim pude aprender e estudar mais sobre a ferramenta, aprimorando assim meus conhecimentos. 
+  Como o Vue era uma tecnologia nova para mim tive que ter autonomia de pesquisar mais sobre o framework e aprender mais sobre a ferramente antes de implementala no projeto, aprimorando assim meu conhecimento e desenvolvimento.
 
 
 - Trabalho em equipe
